@@ -1,4 +1,4 @@
-file_path = "C:/Users/sekuf/PycharmProjects/todo_app/files/subfiles/todos.txt"
+file_path = "C:/Users/sekuf/PycharmProjects/web_app1/todos.txt"
 
 
 
